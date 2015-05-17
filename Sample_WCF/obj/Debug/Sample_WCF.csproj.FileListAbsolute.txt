@@ -1,0 +1,6 @@
+D:\projects\Sample_WCF\Sample_WCF\obj\Debug\Sample_WCF.csprojResolveAssemblyReference.cache
+D:\projects\Sample_WCF\Sample_WCF\bin\Sample_WCF.dll.config
+D:\projects\Sample_WCF\Sample_WCF\bin\Sample_WCF.dll
+D:\projects\Sample_WCF\Sample_WCF\bin\Sample_WCF.pdb
+D:\projects\Sample_WCF\Sample_WCF\obj\Debug\Sample_WCF.dll
+D:\projects\Sample_WCF\Sample_WCF\obj\Debug\Sample_WCF.pdb
