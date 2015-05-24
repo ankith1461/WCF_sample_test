@@ -23,7 +23,7 @@ namespace WcfServiceLibrary1
         [OperationContract]
         string UrNameIs(Name sample);
     }
-
+    [ServiceBehavior(InstanceContextMode=InstanceContextMode.Single)]
     public class SampleTestService : IName
     {
         public string UrNameIs(Name sample)

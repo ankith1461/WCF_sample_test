@@ -1,0 +1,8 @@
+D:\projects\Sample_WCF\WCF_Console_Host\bin\Debug\WCF_Console_Host.exe.config
+D:\projects\Sample_WCF\WCF_Console_Host\bin\Debug\WCF_Console_Host.exe
+D:\projects\Sample_WCF\WCF_Console_Host\bin\Debug\WCF_Console_Host.pdb
+D:\projects\Sample_WCF\WCF_Console_Host\bin\Debug\WcfServiceLibrary1.dll
+D:\projects\Sample_WCF\WCF_Console_Host\bin\Debug\WcfServiceLibrary1.pdb
+D:\projects\Sample_WCF\WCF_Console_Host\obj\Debug\WCF_Console_Host.csprojResolveAssemblyReference.cache
+D:\projects\Sample_WCF\WCF_Console_Host\obj\Debug\WCF_Console_Host.exe
+D:\projects\Sample_WCF\WCF_Console_Host\obj\Debug\WCF_Console_Host.pdb
